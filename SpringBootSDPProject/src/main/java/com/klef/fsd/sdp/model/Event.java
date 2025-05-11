@@ -101,13 +101,7 @@ public void setImage(Blob image) {
 	this.image = image;
 }
 
-public String getName() {
-	return name;
-}
 
-public void setName(String name) {
-	this.name = name;
-}
 
 
 }
